@@ -6,8 +6,7 @@ A beautifully styled, interactive Tic-Tac-Toe game built with pure HTML, CSS, an
 
 ## 🎮 Live Demo
 
-[Try it instantly!](https://your-demo-link.com)  
-*(Replace with your live link if deployed)*
+https://tic-tac-toe-alpha-five-20.vercel.app
 
 ---
 
